@@ -1,1 +1,5 @@
-# crd-init-container
+# CRD Init Container
+
+```
+make help
+```
